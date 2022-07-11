@@ -1,1 +1,1 @@
-# basic_graphical_chess
+# Basic Graphical Chess
